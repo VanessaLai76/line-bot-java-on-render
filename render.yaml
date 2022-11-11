@@ -7,9 +7,9 @@ services:
   autoDeploy: false
   envVars:
   - key: CHANNEL_TOKEN
-    sync: false
+    sync: yxpm5mQNxQO4khL/wXmI5ZoEojDw+VmPBe8uyKhBJATJD/MA+XKjApG55Eo84OgdOddSh2zLw8iIP8rnP0e/VAg+S+hhPIfZfaSeXdiQuiPFViL4aKe3dcqDbkLSRmycIv8tmC6oiBDBH2hojGa0/gdB04t89/1O/w1cDnyilFU=
   - key: CHANNEL_SECRET
-    sync: false
+    sync: c2bcd42d18b0a4417e55513b7f8c6419
   - key: SAMPLE_FOLDER
     value: sample-spring-boot-echo
 #     value: sample-spring-boot-echo-kotlin
